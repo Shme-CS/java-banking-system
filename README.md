@@ -57,7 +57,7 @@ After studying this project, you will understand:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/java-banking-system.git
+   git clone https://github.com/Shme-CS/java-banking-system.git
    cd java-banking-system
    ```
 
