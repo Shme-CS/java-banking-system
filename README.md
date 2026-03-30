@@ -282,7 +282,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@Shme-CS](https://github.com/Shme-CS)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/your)
 - Email: shme.solo@gmail.com
 
 ## 🙏 Acknowledgments
